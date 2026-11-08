@@ -26,17 +26,17 @@
 ```javascript
 const amrit = {
   role: "Creative Technologist & Full-Stack Developer",
-  coreFocus: ["WebGL & 3D Web Graphics", "Voxel Game Engines", "Android Ecosystem", "Full-Stack Web"],
-  favoriteTech: ["Three.js", "React", "Node.js", "Vite", "Tailwind CSS"],
+  coreFocus: ["WebGL & 3D Web Graphics", "Voxel Game Engines", "Cloud Systems & Firebase", "Android Ecosystem"],
+  favoriteTech: ["Three.js", "React", "Firebase", "Node.js", "Vite", "Tailwind CSS"],
   philosophy: "Pushing browser boundaries to rival native performance through elegant engineering.",
-  currentObsession: "Procedural terrain chunk meshing & real-time Web Worker multithreading."
+  currentObsession: "Procedural terrain chunk meshing & real-time collaborative cloud platforms."
 };
 ```
 
-- 🔭 **Current Focus**: Architecting [**BlockCraft**](https://github.com/Amrit-droid-og/BlockCraft) (a high-performance WebGL 3D voxel sandbox engine) and advancing [**androidctrl**](https://github.com/Amrit-droid-og/androidctrl).
+- 🔭 **Current Focus**: Architecting [**BlockCraft**](https://github.com/Amrit-droid-og/BlockCraft) (a high-performance WebGL 3D voxel sandbox engine) and [**LinkDrop.io**](https://linkdrop.web.app/) (real-time collaborative event & expense planner).
 - 🌐 **Portfolio**: Explore my interactive cyberpunk-inspired showcase at [amrit-droid-og.github.io/Portfolio](https://amrit-droid-og.github.io/Portfolio/).
-- 💡 **Interests**: Spatial computing, WebGL/WebGPU shaders, procedural noise generation, AABB physics pipelines, and developer tooling.
-- 💬 **Ask me about**: Three.js, voxel graphics, React animations (GSAP/Framer Motion), Android internals, and frontend architecture.
+- 💡 **Interests**: Spatial computing, WebGL/WebGPU shaders, procedural noise generation, Firebase real-time architectures, and Android internals.
+- 💬 **Ask me about**: Three.js, voxel graphics, React, Firebase Firestore, Android tools, and frontend performance.
 
 ---
 
@@ -64,13 +64,13 @@ const amrit = {
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-#### ⚙️ Runtime, Mobile & Tooling
+#### ⚙️ Cloud, Backend & Tooling
 <p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -91,6 +91,16 @@ const amrit = {
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🚀 <a href="https://github.com/Amrit-droid-og/LinkDrop">LinkDrop.io</a></h3>
+      <p align="center"><b>Collaborative Event & Expense Planner</b> (<a href="https://linkdrop.web.app/">Live App</a>)</p>
+      <p>Frictionless social planning platform with automated expense split calculations, dynamic timelines, RSVPs, and real-time Google Cloud Firestore synchronization.</p>
+      <p align="center">
+        <code>React</code> • <code>Firebase</code> • <code>Firestore</code> • <code>Tailwind</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">📱 <a href="https://github.com/Amrit-droid-og/androidctrl">androidctrl</a></h3>
       <p align="center"><b>Android Remote Control & Automation CLI</b></p>
       <p>A fast, robust suite to remotely control, inspect, and automate Android devices and emulators with seamless developer workflows.</p>
@@ -98,22 +108,12 @@ const amrit = {
         <code>Android</code> • <code>ADB</code> • <code>CLI</code> • <code>Automation</code>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ <a href="https://github.com/Amrit-droid-og/Trust-Browser">Trust-Browser</a></h3>
       <p align="center"><b>Privacy-First Open-Source Web Client</b></p>
       <p>Modern browser client prioritizing user security, active telemetry stripping, and real-time tracker blocking shields.</p>
       <p align="center">
         <code>Open Source</code> • <code>Privacy</code> • <code>Chromium</code> • <code>Security</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/Amrit-droid-og/ZertOS">ZertOS</a></h3>
-      <p align="center"><b>Premium Web-Based Desktop OS Simulation</b></p>
-      <p>Interactive web desktop environment with custom window managers, taskbars, fluid animations, and application sandbox.</p>
-      <p align="center">
-        <code>JavaScript</code> • <code>UI/UX</code> • <code>System Simulation</code>
       </p>
     </td>
   </tr>
